@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FindMyPhone</string>
+    <string name="watch_inrange">Yup, we see your watch.</string>
+    <string name="watch_outofrange">No watch in range.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="app_policy_admin_name">Find My Phone</string>
+    <string name="policy_request_desc">We need the \"Set password rules\" permission to check if you have enabled secure lock. We need the \"Lock the screen\" permission to automatically lock your phone when your watch is out of range. Do not grant the permission if you do not want the auto locking feature.</string>
+    <string name="device_admin_instruction">If you want to auto lock your phone when watch is out of range, please grant Device Admin Permission. </string>
+    <string name="warn_longer_timeout">You can set a longer \"Automatically Lock\" timeout, so that you do not need to enter password frequently. The App automatically locks your phone when watch is out of range, so it is secure. You can change it in Settings.</string>
+    <string name="change_setting">Open Settings</string>
+    <string name="warn_set_password">We recommend you set a lock password, so that no one can open it when we auto lock. You can change it in Settings.</string>
+
+</resources>
