@@ -1,6 +1,6 @@
 
 This is the source code for the Android Wear Find My Phone app https://play.google.com/store/apps/details?id=co.vimo.findmyphone.
-It turns your Android Wear watch into a leash for your phone. 
+It turns your Android Wear watch into a leash for your phone. If you like it, check out our other Apps: <a href="https://play.google.com/store/apps/details?id=co.vimo.golf">Golf Swing Analyzer on Android Wear</a> and  <a href="https://play.google.com/store/apps/details?id=vimo.co.seven">Vimo Fitness on Android Wear</a>
 
 It has three functions:
 
